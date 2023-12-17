@@ -1,6 +1,8 @@
 # Weather-Alert-App
 This script is a practical and useful application, combining weather data retrieval from the OpenWeatherMap API with SMS alerts through the Twilio API. The project has two part:
+
 The first part of the project is the " Weather information app" wchich includes:
+
 1.OpenWeatherMap API Integration: The script interacts with the OpenWeatherMap API to retrieve real-time weather information for a city. This could include details such as temperature, humidity, wind speed, and more.
 
 2.User Input: The user is prompted to input a city, suggesting that the script is designed to fetch weather information for a specific location based on user preference.
