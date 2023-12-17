@@ -15,5 +15,5 @@ The second part of this project is "The Waether Alert App", I added a few more f
 
 5.Automation with PythonAnywhere: PythonAnywhere is used to automate the Python script, suggesting that this weather monitoring and alert system can run periodically in a cloud-based environment. 
 
-We can schedule this script to run everyday in the morning, the script is designed to check the the weather data of next twelve hours, and if it finds a possiblity of rain (i.e. weather id< 700) it send SMS to alert that "It may rain, so bring an umbrella!" 
+We can schedule this script to run everyday in the morning, the script is designed to check the the weather data of next twelve hours, and if it finds a possiblity of rain (i.e. weather id< 700) it sends a SMS to alert the user that "It may rain, so bring an umbrella!" 
 
