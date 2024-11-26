@@ -47,9 +47,9 @@ for hr_data in weather_data["list"]:
     if int(hr_data["weather"][0]["id"]) < 700 :
        client = Client(account_sid, auth_token)
        message = client.messages.create(
-       from_='+12057497493',
+       from_='TWILIO NUMBER',
        body='It may rain, so bring an umbrella!',
-       to='+918875289926'
+       to='YOUR NUMBER'
        )
        print(message.status)
        """The message.status will give you the status of the sent message,
